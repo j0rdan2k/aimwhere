@@ -61,11 +61,11 @@ var Lobbies = {
                             <Image id="JsFriendAdvertisePrime"
                                     class="friendlobby__row__icon-prime"
                                     src="file://{images}/icons/ui/prime.svg"
-                                    texturewidth="10"
-                                    textureheight="10"/>
+                                    texturewidth="20"
+                                    textureheight="20"/>
                             <Image id="JsFriendAdvertiseSkillGroup"
                                     class="friendlobby__row__icon-skillgroup" 
-                                    textureheight="10"
+                                    textureheight="20"
                                     texturewidth="-1"
                                     defaultsrc="" />
                             <Label id="JsRegionLabel" class="" text=""/>
